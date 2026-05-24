@@ -1,15 +1,43 @@
-# Welcome to Prism
-
 ![Prism Logo](https://raw.githubusercontent.com/prismteam-ai/.github/main/profile/PrismLogo_black.svg)
 
-## Litepaper
+# Welcome to Prism
 
-**Our vision, strategy, and roadmap.**
+**AI Transformation for Human-Agent Work**
 
-**[→ Read the Full Litepaper](https://github.com/prismteam-ai/litepaper/blob/main/LITEPAPER.md)**
+We help enterprise leaders move from AI pressure and experimentation to practical ownership of how work is designed, governed, and executed in the age of agents.
 
 ---
 
-**Explore our work:**
-- [Main Product Repo](...)
-- [Smart Contracts](...)
+## Litepaper
+
+**[→ Read the Full Litepaper](https://github.com/prismteam-ai/litepaper/blob/main/LITEPAPER.md)**
+
+### Executive Summary
+
+Enterprise leaders know AI matters. What they often lack is a practical way to move from pressure and experimentation to ownership of how work and the workforce change.
+
+**Tool adoption gives people access to AI.**  
+**Transformation changes how work is designed, governed, and executed.**
+
+Prism helps enterprises become **agentic AI-native** by redesigning work around hybrid teams of humans and AI agents — with proper fluency, bottleneck diagnosis, Agent Resources, and progressive governance.
+
+---
+
+## What We Do
+
+- Build executive agent fluency through hands-on starter exercises
+- Identify legacy bottlenecks where humans act as workflow connectors
+- Redesign functions as hybrid human-agent teams
+- Establish the **Agent Resources** capability
+- Implement progressive, scalable agent governance
+
+---
+
+## Links
+
+- [Litepaper](https://github.com/prismteam-ai/litepaper/blob/main/LITEPAPER.md)
+- [Website](https://www.prismteam.ai)
+
+---
+
+**Prism** — Turning AI pressure into practical ownership.
