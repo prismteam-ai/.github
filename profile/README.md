@@ -4,13 +4,9 @@
 
 ## Litepaper
 
-Our vision and product strategy:
+**Our vision, strategy, and roadmap.**
 
-**[Read the Full Litepaper →](https://github.com/your-org/litepaper/blob/main/LITEPAPER.md)**
-
-### Quick Summary
-
-[Insert key highlights here — problem, solution, market, tokenomics, etc.]
+**[→ Read the Full Litepaper](https://github.com/prismteam-ai/litepaper/blob/main/LITEPAPER.md)**
 
 ---
 
