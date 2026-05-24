@@ -1,6 +1,6 @@
 # Welcome to Prism
 
-![Logo](https://raw.githubusercontent.com/your-org/.github/main/profile/logo.png)
+![Prism Logo](https://raw.githubusercontent.com/prismteam-ai/.github/main/profile/PrismLogo_black.png)
 
 ## Litepaper
 
