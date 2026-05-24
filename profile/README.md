@@ -1,4 +1,4 @@
-# Welcome to [Your Company]
+# Welcome to Prism
 
 ![Logo](https://raw.githubusercontent.com/your-org/.github/main/profile/logo.png)
 
