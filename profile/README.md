@@ -23,6 +23,21 @@ Prism helps enterprises become **agentic AI-native** by redesigning work around 
 
 ---
 
+## Resources & Tools
+
+### Team AI Plugin Kit
+
+**[soofi-xyz-team-kit →](https://github.com/soofi-xyz/soofi-xyz-team-kit)**
+
+A collection of specialized **AI agents and skills** (Cursor + GitHub Copilot CLI plugin) designed to accelerate development and operations.
+
+**Contains:**
+- Master router agent (`arceus`)
+- 20+ specialized agents (frontend, RAG, platform engineering, communication services, marketplace architecture, etc.)
+- Reusable skills for building AWS services, batch workflows, agents, and more
+
+---
+
 ## What We Do
 
 - Build executive agent fluency through hands-on starter exercises
